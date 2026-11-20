@@ -1,4 +1,4 @@
-# Churn Model Project - GROUP 8
+# Churn Model Project 
 
 ## Overview
 
